@@ -1,0 +1,10 @@
+.body{
+    background: linear-gradient(0deg, rgba(2, 2, 2, 0.829), rgba(2, 2, 2, 0.829)),
+        url('https://www.simrad-yachting.com/globalassets/simrad/world-of-simrad/inspiration/weather-watch/weather-header.png') no-repeat center;
+    width: 100% !important;
+    color: white;
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

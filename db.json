@@ -1,0 +1,197 @@
+{
+  "usa": {
+    "weather": [
+      {
+        "date": "24",
+        "temperature": 25,
+        "humidity": 70,
+        "wind_speed": 10,
+        "description": "Cloudy and drying weather"
+      },
+      {
+        "date": "2024-05-25",
+        "temperature": 27,
+        "humidity": 68,
+        "wind_speed": 12,
+        "description": "Strong wind and warm days"
+      },
+      {
+        "date": "2024-05-26",
+        "temperature": 23,
+        "humidity": 72,
+        "wind_speed": 8,
+        "description": "Cool and cloudy weather"
+      },
+      {
+        "date": "2024-05-27",
+        "temperature": 24,
+        "humidity": 69,
+        "wind_speed": 9,
+        "description": "Moderately warm weather"
+      },
+      {
+        "date": "2024-05-28",
+        "temperature": 26,
+        "humidity": 67,
+        "wind_speed": 11,
+        "description": "Strong days are coming"
+      }
+    ]
+  },
+  "china": {
+    "weather": [
+      {
+        "date": "2024-05-24",
+        "temperature": 28,
+        "humidity": 75,
+        "wind_speed": 15,
+        "description": "Warm and reassuring days"
+      },
+      {
+        "date": "2024-05-25",
+        "temperature": 30,
+        "humidity": 72,
+        "wind_speed": 17,
+        "description": "Very warm days"
+      },
+      {
+        "date": "2024-05-26",
+        "temperature": 27,
+        "humidity": 77,
+        "wind_speed": 14,
+        "description": "Cloudy and drying weather"
+      },
+      {
+        "date": "2024-05-27",
+        "temperature": 29,
+        "humidity": 73,
+        "wind_speed": 16,
+        "description": "Warm and hot days"
+      },
+      {
+        "date": "2024-05-28",
+        "temperature": 31,
+        "humidity": 70,
+        "wind_speed": 18,
+        "description": "Cool and bright days"
+      }
+    ]
+  },
+  "india": {
+    "weather": [
+      {
+        "date": "2024-05-24",
+        "temperature": 35,
+        "humidity": 80,
+        "wind_speed": 8,
+        "description": "Hot and humid"
+      },
+      {
+        "date": "2024-05-25",
+        "temperature": 34,
+        "humidity": 78,
+        "wind_speed": 10,
+        "description": "Warm with occasional showers"
+      },
+      {
+        "date": "2024-05-26",
+        "temperature": 33,
+        "humidity": 75,
+        "wind_speed": 9,
+        "description": "Partly cloudy and pleasant"
+      },
+      {
+        "date": "2024-05-27",
+        "temperature": 36,
+        "humidity": 82,
+        "wind_speed": 11,
+        "description": "Hot and sunny"
+      },
+      {
+        "date": "2024-05-28",
+        "temperature": 37,
+        "humidity": 79,
+        "wind_speed": 12,
+        "description": "Very hot and humid"
+      }
+    ]
+  },
+  "brazil": {
+    "weather": [
+      {
+        "date": "2024-05-24",
+        "temperature": 28,
+        "humidity": 70,
+        "wind_speed": 11,
+        "description": "Warm and sunny"
+      },
+      {
+        "date": "2024-05-25",
+        "temperature": 29,
+        "humidity": 72,
+        "wind_speed": 13,
+        "description": "Hot with occasional clouds"
+      },
+      {
+        "date": "2024-05-26",
+        "temperature": 27,
+        "humidity": 68,
+        "wind_speed": 10,
+        "description": "Pleasant weather with light breeze"
+      },
+      {
+        "date": "2024-05-27",
+        "temperature": 26,
+        "humidity": 65,
+        "wind_speed": 9,
+        "description": "Cooler with gentle winds"
+      },
+      {
+        "date": "2024-05-28",
+        "temperature": 28,
+        "humidity": 67,
+        "wind_speed": 11,
+        "description": "Warm and clear skies"
+      }
+    ]
+  },
+  "russia": {
+    "weather": [
+      {
+        "date": "2024-05-24",
+        "temperature": 15,
+        "humidity": 60,
+        "wind_speed": 20,
+        "description": "Cold and windy"
+      },
+      {
+        "date": "2024-05-25",
+        "temperature": 16,
+        "humidity": 62,
+        "wind_speed": 18,
+        "description": "Chilly with scattered showers"
+      },
+      {
+        "date": "2024-05-26",
+        "temperature": 14,
+        "humidity": 58,
+        "wind_speed": 19,
+        "description": "Brisk and partly cloudy"
+      },
+      {
+        "date": "2024-05-27",
+        "temperature": 17,
+        "humidity": 65,
+        "wind_speed": 21,
+        "description": "Cool with moderate winds"
+      },
+      {
+        "date": "2024-05-28",
+        "temperature": 15,
+        "humidity": 63,
+        "wind_speed": 22,
+        "description": "Cold and overcast"
+      }
+    ]
+  }
+}
