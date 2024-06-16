@@ -11,7 +11,7 @@ function HomeComponent() {
   
     queryKey: ["weather", city],
     queryFn: () =>
-      fetch(`http://localhost:3062/${city}`).then((response) =>
+      fetch(`http://localhost:3000/${city}`).then((response) =>
         response.json()
       ),
     enabled: false,
@@ -36,8 +36,6 @@ function HomeComponent() {
   return (
     <div className="body">
       <div className="w-3/4 mx-auto pt-9">
-        {/* <Header />
-        <div className="hidden"><Table></Table></div> */}
         <div id="body-top">
           <div className="container mx-auto px-4 py-8">
             <h1 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4">
