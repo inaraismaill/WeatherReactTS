@@ -4,6 +4,14 @@ import { useQuery } from "@tanstack/react-query";
 import "./home.css";
 import { useState } from "react";
 
+interface WeatherData {
+  date: string;
+  temperature: number;
+  humidity: number;
+  wind_speed: number;
+  description: string;
+}
+
 function HomeComponent() {
   const [city, setCity] = useState<string>("");
 
@@ -77,7 +85,7 @@ function HomeComponent() {
               className={`w-full flex flex-wrap justify-center items-center text-center p-4  ${data?"border border-gray-400":""} `}
             >
               {data &&
-                data.weather.map((item, i) => {
+                data.weather.map((item:WeatherData, i:number) => {
                   return (
                     <div
                       key={i}
